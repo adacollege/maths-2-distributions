@@ -1,1 +1,1 @@
-# maths-as-distributions
+# maths-2-distributions
